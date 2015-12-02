@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Frexuz]]></title>
+        <description><![CDATA[Frexuz]]></description>
+        <link>https://thegrid.ai/frexuz/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 16:54:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frexuz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Testing frexuz</p>]]></description>
+            <link>https://thegrid.ai/frexuz/dd3db9f5-d2b1-4da6-8960-1a3cedd8d5bc/index.html</link>
+            <guid isPermaLink="false">dd3db9f5-d2b1-4da6-8960-1a3cedd8d5bc</guid>
+            <pubDate>Wed, 02 Dec 2015 16:54:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/frexuz/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">bd4b447c-728a-45d8-9d1f-b78601837b99</guid>
+            <pubDate>Wed, 02 Dec 2015 16:53:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
