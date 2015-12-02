@@ -1,7 +1,7 @@
 name: frexuz
 favicon: null
-layout_spectrum: 0.1812561748083681
-typography_spectrum: 0.09978119935840368
+layout_spectrum: 0.20338
+typography_spectrum: 1
 title: Frexuz
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.279717642813921
-  lightness: 0.14786633593030274
-  saturation: 0.8811309388838708
-  rhythmicContrast: 0.7245850011240691
+  brandStrength: 0.3125
+  lightness: 0.25
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
